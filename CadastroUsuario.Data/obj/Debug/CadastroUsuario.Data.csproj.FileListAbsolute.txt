@@ -1,0 +1,12 @@
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\bin\Debug\CadastroUsuario.Data.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\bin\Debug\CadastroUsuario.Data.pdb
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\obj\Debug\CadastroUsuario.Data.csproj.CoreCompileInputs.cache
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\obj\Debug\CadastroUsuario.Data.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\obj\Debug\CadastroUsuario.Data.pdb
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\bin\Debug\CadastroUsuario.Data.dll.config
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\bin\Debug\EntityFramework.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\bin\Debug\EntityFramework.xml
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\obj\Debug\CadastroUsuario.Data.csproj.CopyComplete
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.Data\obj\Debug\CadastroUsuario.Data.csprojResolveAssemblyReference.cache

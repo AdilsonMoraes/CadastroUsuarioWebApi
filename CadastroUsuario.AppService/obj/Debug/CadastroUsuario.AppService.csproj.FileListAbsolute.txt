@@ -1,0 +1,15 @@
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\CadastroUsuario.AppService.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\CadastroUsuario.AppService.pdb
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\obj\Debug\CadastroUsuario.AppService.csprojResolveAssemblyReference.cache
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\obj\Debug\CadastroUsuario.AppService.csproj.CoreCompileInputs.cache
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\obj\Debug\CadastroUsuario.AppService.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\obj\Debug\CadastroUsuario.AppService.pdb
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\CadastroUsuario.AppService.dll.config
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\CadastroUsuario.Data.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\EntityFramework.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\CadastroUsuario.Data.pdb
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\CadastroUsuario.Data.dll.config
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\EntityFramework.xml
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adilson.moreira\Desktop\ProjetoWeb\Projeto_Teste_WebApi\CadastroUsuario\CadastroUsuario.AppService\obj\Debug\CadastroUsuario.AppService.csproj.CopyComplete
