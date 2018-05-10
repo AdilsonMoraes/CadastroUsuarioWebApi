@@ -8,7 +8,11 @@ namespace WebAPI.Controllers
     [RoutePrefix("api/usuario")]
     public class UsuarioController : ApiController
     {
-        UsuarioAppService appServices = new UsuarioAppService();
+
+        //implementar Injeção de dependência 
+        ///https://viniciusmussak.net/2015/04/09/implementando-simple-injector/comment-page-1/
+
+        //
 
         // GET api/usuario   RETORNA LISTA
         [AcceptVerbs("GET")]

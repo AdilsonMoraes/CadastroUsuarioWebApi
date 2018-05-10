@@ -47,8 +47,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Services\IUsuarioAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UsuarioAppService.cs" />
+    <Compile Include="Services\UsuarioAppService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

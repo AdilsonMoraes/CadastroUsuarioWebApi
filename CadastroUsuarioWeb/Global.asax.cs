@@ -13,6 +13,7 @@ namespace CadastroUsuarioWeb
     {
         protected void Application_Start()
         {
+            //https://viniciusmussak.net/2015/04/09/implementando-simple-injector/comment-page-1/
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
